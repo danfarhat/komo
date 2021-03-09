@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555874628471",
+    "project_id": "kmstoresapp",
+    "storage_bucket": "kmstoresapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555874628471:android:c19d95540ccfebc123e772",
+        "android_client_info": {
+          "package_name": "com.example.km_stores_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555874628471-vete1v64e3k365cr8h5guaou77rc3nef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7L_yktEJtgJg-mEXFR7a9ov8CidrdN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555874628471-vete1v64e3k365cr8h5guaou77rc3nef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
